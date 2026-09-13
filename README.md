@@ -1,4 +1,4 @@
-# Smart Calorie AI
+# Smart Calorie
 
 **MobileNetV3-Small 기반 음식 이미지 분류 및 섭취량 보정형 영양정보 추정 웹앱**
 
