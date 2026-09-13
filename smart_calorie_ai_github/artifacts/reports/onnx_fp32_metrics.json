@@ -1,0 +1,9 @@
+{
+  "model": "artifacts\\models\\food_classifier.onnx",
+  "accuracy": 0.876,
+  "macro_precision": 0.876040564992793,
+  "macro_recall": 0.876,
+  "macro_f1": 0.8748300423998432,
+  "test_images": 500,
+  "num_classes": 10
+}
